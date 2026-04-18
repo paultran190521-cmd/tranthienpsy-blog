@@ -655,3 +655,6 @@ footer h2 {
         align-items: stretch;
     }
 }
+
+/* Justify Text */
+.article-content p, .article-content li { text-align: justify; hyphens: auto; }
